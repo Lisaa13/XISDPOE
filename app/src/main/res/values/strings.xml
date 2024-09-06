@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">XisdPoe</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+
+
+    <string name="eft_name">EFT GIVING</string>
+    <string name="instant_name">INSTANT GIVING</string>
+    <string name="ways_togive">WAYS TO GIVE</string>
+
+
+    <string name="tip">Each of you should give what you
+        have\ndecided in your heart to give,\n
+        not reluctantly or under compulsion,\n
+        for God loves a cheerful giver.(2 Corinthians 9:7)</string>
+
+    <string name="tip1">"May the God of hope fill you
+        with all joy and peace in believing,
+        so that by the power of the
+        Holy spirit you may abound in hope"\n
+        Romans 15:3</string>
+
+
+    <string name="eft_banking_details">
+   EFT\nBANKING DETAILS\n\nAccount Name : Church of the nazarene\nAccount Number :98765432111\nBank: FNB\nBranch code:250655\nRef: name $ surname
+  </string>
+    <string name="instant_transfer">
+   INSTANT MONEY TRANSFER\n\nNumber: 0608686521\nE-Wallet\nCash Send\nCapitec money transfer
+</string>
+
+
+    <string name="love">Pray for love\n\nGod help me love as\nyou have commanded me to love\n1 Corinthians 15:4-7</string>
+    <string name="peace">Pray for peace\n\nGod surround me with your peace\n1 Peter 5:7</string>
+    <string name="others">Pray for others\n\nGod i pray for others to recieve you\nin their lives.\n1 Timothy 2:1-5</string>
+    <string name="forgiveness">Pray for forgiveness\n\nGod if there is anything\ni have done wrong, please forgive me\n1 John1:19</string>
+    <string name="guidance">Pray for guidance\n\nGod show me what you want me to do today\nJeremiah 43:3</string>
+    <string name="protection">Pray for protection\n\nGod keep your hands of\nprotection around me\nDeuteronomy 31:5</string>
+    <string name="faith">Pray for faith\n\nGod helpmt believe you will meet\nall my needs\nMark 11:24</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about">Who are we?</string>
+    <string name="about_us">Acornhoek Church of the Nazarene is a Christian\n
+    congregation serving the Acorhoek community \nand encouraging others through a
+    life changing Christian journey.\nWe seek to serve God by working for justice,peace,
+    respect and \nlearning from all the great faith traditions and\ndesire to be known by
+    the love we have for one another</string>
+
+    <string name="mission">Our mission</string>
+    <string name="our_mission">We believe that education coupled with evangelism,compassion,\n
+    working for justice and bearing witness to the\nkindom of God are all essential aspects
+    of the mission to make disciples in the nations.</string>
+
+</resources>

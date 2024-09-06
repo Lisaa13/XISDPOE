@@ -1,0 +1,8 @@
+package com.example.xisdpoe
+
+object Utils {
+
+const val PUBLISHABLE_KEY ="pk_test_51PNYmR2KwgG7afkSMgw20VcWHN8iQVi2ckZQJDfATBa6sEJ8ARDa9yyWwJ2oRX6Mh3NdaH18CDmatlRpmcInlWCW00qV30Rtv4"
+    const val SECRET_KEY = "sk_test_51PNYmR2KwgG7afkS5FZbxdLriiwKdf6vOgmzmlTGCbV1VE5vRWt67ptCpY3oLYhfG3Skh6eHqMaPRYxijrglK6sW00QDXAgbZE"
+
+}
